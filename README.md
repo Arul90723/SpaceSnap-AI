@@ -1,5 +1,14 @@
-# 🌎 SpaceSnap AI
 
+# 🌎 SpaceSnap AI
+## 🚀 Live Demo
+
+**Try SpaceSnap AI here:**  
+https://spacesnap-ai-8eez3y59iok96guwjzbgjj.streamlit.app/
+
+## 💻 Source Code
+
+**GitHub Repository:**  
+https://github.com/Arul90723/SpaceSnap-AI
 **Understand Earth and space images with AI.**
 
 SpaceSnap AI analyzes NASA and other Earth-observation images using
