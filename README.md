@@ -9,6 +9,16 @@ https://spacesnap-ai-8eez3y59iok96guwjzbgjj.streamlit.app/
 
 **GitHub Repository:**  
 https://github.com/Arul90723/SpaceSnap-AI
+Generated Image Explanation and Feature Detection Results
+Screenshots to attach separately in Discord: original uploaded satellite image; AI-annotated image with
+approximate bounding boxes; detected features and labels; AI-generated simple explanation; and
+feature-detection results from the SpaceSnap AI application.
+AI-Generated Explanation
+The satellite map depicts the Amazon basin near the borders of Peru, Brazil, and Bolivia. The image shows
+extensive green forest cover, a possible smoke plume, and a marked study area. The AI provides approximate
+bounding boxes to help users locate the features it describes.
+Limitations: Feature labels and bounding boxes are AI-generated estimates, not scientifically verified detections.
+Smoke, haze, map overlays, and land-cover patterns may be misinterpreted.
 
 **Understand Earth and space images with AI.**
 
