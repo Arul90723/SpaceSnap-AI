@@ -43,7 +43,20 @@ visible features, estimates their locations, and creates annotated images.
 - Pillow
 - NASA Images API for sample-image discovery
 
+  
+Project Approach (100–150 Words)
+SpaceSnap AI is an AI-powered web application designed to help students and beginners understand
+Earth-observation and satellite images. Built using Python and Streamlit, it integrates Google's Gemini model to
+analyze uploaded images, identify visible features, and generate simple explanations. The application displays
+approximate bounding boxes and labels for detected features, helping users explore elements such as vegetation,
+smoke, rivers, and land-use patterns. Users can also download annotated images for further study. NASA imagery
+provides sample inputs for demonstrating the application. The project aims to make Earth-observation imagery
+more accessible through an interactive and beginner-friendly interface. However, AI-generated labels and
+bounding boxes may be inaccurate, and results are intended for educational exploration rather than scientifically
+verified detection or emergency response.
+
 ## Setup
+
 
 1. Install Python 3.10 or later.
 2. Install dependencies:
